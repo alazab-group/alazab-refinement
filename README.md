@@ -1,18 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to your Alazab Group
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/99a02d6b-f056-49c3-91bf-97810d061851
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use Alazab.Dev**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/99a02d6b-f056-49c3-91bf-97810d061851) and start prompting.
+Simply visit the [Alazab Project](https://lovable.dev/projects/99a02d6b-f056-49c3-91bf-97810d061851) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via Alazab will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,12 +60,17 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/99a02d6b-f056-49c3-91bf-97810d061851) and click on Share -> Publish.
+Simply open [Alazab](https://lovable.dev/projects/99a02d6b-f056-49c3-91bf-97810d061851) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom project?
 
 Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+<div align="center" style="padding-top: 0.75rem;">
+	<a href="https://al-azab.co" target="_blank">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/zDP0sVnp/alazab-logo-w.png">
+			<img src="https://i.postimg.cc/nzMwZD2k/logaz.gif" alt="Alazab Dev" height="58"/>
+		</picture>
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+  
